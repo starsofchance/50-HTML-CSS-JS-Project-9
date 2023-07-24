@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Random Password Generator</title>
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://kit.fontawesome.com/926f5bbd11.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="container">
+      <h2 class="title">Random Password Generator</h2>
+      <div class="lengthContainer">
+        <input
+          id="lengthOfPass"
+          class="lengthOfPass"
+          placeholder="length of the password?"
+          value=""
+        />
+      </div>
+      <div class="inputContainer">
+        <input
+          id="input"
+          class="input"
+          placeholder="Click To Generate"
+          value=""
+          readonly
+        />
+        <i class="far fa-copy fa-2x"></i>
+      </div>
+
+      <button class="btn">Generate</button>
+    </div>
+    <div class="alert active">Password Copied</div>
+    <script src="index.js"></script>
+  </body>
+</html>
