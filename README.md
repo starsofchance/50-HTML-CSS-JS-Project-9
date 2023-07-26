@@ -4,6 +4,6 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 # 50 HTML, CSS, and JS sample project
-## Project 8: Mini Calendar
+## Project 9: Random Password Generator
 A Preview of the project output.
 ![](https://github.com/starsofchance/50-HTML-CSS-JS-Project-9/blob/main/Animation.gif)
